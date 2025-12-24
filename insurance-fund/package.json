@@ -8,7 +8,7 @@
         "@metaplex-foundation/solita": "^0.20.1",
         "@solana/spl-token": "^0.4.8",
         "@solana/web3.js": "^1.95.2",
-        "axios": "^1.7.7"
+        "axios": "^1.13.2"
     },
     "devDependencies": {
         "@types/bn.js": "^5.1.0",
